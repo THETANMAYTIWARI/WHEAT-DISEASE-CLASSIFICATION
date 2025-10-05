@@ -75,10 +75,11 @@ Prediction: PREDICTION: LEAF RUST
 Visual Output: Displays the input image with the predicted label overlay.
 
 ### 🏁 Results Summary
+```
 Metric	    Training	   Validation
 Accuracy	    93.8%	       93.1%
 Loss	        0.19	       0.21
-
+```
 ### 💾 Files
 
 model.h5 → Trained model
