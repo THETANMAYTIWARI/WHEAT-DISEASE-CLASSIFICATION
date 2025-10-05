@@ -50,7 +50,7 @@ Data Augmentation using ImageDataGenerator
 
 Trained model saved as model.h5
 
-###🧾 Evaluation
+### 🧾 Evaluation
 
 Accuracy: 93.1%
 
