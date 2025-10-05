@@ -50,9 +50,9 @@ Data Augmentation using ImageDataGenerator
 
 Trained model saved as model.h5
 
-🧾 Evaluation
+###🧾 Evaluation
 
-#### Accuracy: 93.1%
+Accuracy: 93.1%
 
 Metrics: Confusion Matrix & Classification Report
 
